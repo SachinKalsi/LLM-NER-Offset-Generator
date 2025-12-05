@@ -47,7 +47,7 @@ This notebook provides a deterministic, scalable solution that ensures:
  
     5. Finds all occurrences of each entity value
     
-    6. Computes start_offset and end_offset
+    6. Computes `start_offset` and `end_offset`
     
     7. Extracts the surrounding context
     
